@@ -1,12 +1,12 @@
-# Vellum
+# Fahos
 
-> Vellum is an enterprise communications archive. It captures every customer
+> Fahos is an enterprise communications archive. It captures every customer
 > communication sent by enterprise marketing and messaging platforms — across
 > all channels, marketing and transactional — and stores it immutably so it can
 > be retrieved and proven years later.
 
 ## What it is
-Vellum archives the output of enterprise communication platforms (Adobe Journey
+Fahos archives the output of enterprise communication platforms (Adobe Journey
 Optimizer, Salesforce Marketing Cloud, Adobe Campaign, Braze, Marketo Engage,
 Iterable) across email, SMS, push, in-app, WhatsApp and direct mail. Every record
 is write-once (WORM), SHA-256 integrity-verified, and retrievable in milliseconds
@@ -28,12 +28,12 @@ healthcare, telecom, retail and the public sector.
 
 ## How it differs from per-mailbox archiving
 Traditional archives are priced per mailbox/seat and built for human inboxes.
-Vellum is engineered and priced for billions of platform-generated messages,
+Fahos is engineered and priced for billions of platform-generated messages,
 tiering records to low-cost storage while keeping retrieval instant.
 
 ## Pages
-- Home / product overview: https://www.vellum.example/
-- FAQ: https://www.vellum.example/#faq
-- Industries: https://www.vellum.example/#industries
-- Integrations: https://www.vellum.example/#integrations
-- Contact / demo: https://www.vellum.example/#cta
+- Home / product overview: https://fahos.ch/
+- FAQ: https://fahos.ch/#faq
+- Industries: https://fahos.ch/#industries
+- Integrations: https://fahos.ch/#integrations
+- Contact / demo: https://fahos.ch/#cta

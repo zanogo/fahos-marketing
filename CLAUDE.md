@@ -14,7 +14,7 @@ A static marketing site deployed to **Firebase Hosting** (free **Spark** tier).
 firebase deploy --only hosting
 ```
 
-The default Firebase project (`vellum-marketing`) is set in `.firebaserc`.
+The default Firebase project (`fahos-marketing`) is set in `.firebaserc`.
 
 ## Notes
 
