@@ -1,0 +1,39 @@
+# Vellum
+
+> Vellum is an enterprise communications archive. It captures every customer
+> communication sent by enterprise marketing and messaging platforms — across
+> all channels, marketing and transactional — and stores it immutably so it can
+> be retrieved and proven years later.
+
+## What it is
+Vellum archives the output of enterprise communication platforms (Adobe Journey
+Optimizer, Salesforce Marketing Cloud, Adobe Campaign, Braze, Marketo Engage,
+Iterable) across email, SMS, push, in-app, WhatsApp and direct mail. Every record
+is write-once (WORM), SHA-256 integrity-verified, and retrievable in milliseconds
+from any storage tier.
+
+## Who it is for
+Enterprises that send high volumes of machine-generated, personalized customer
+communications and must retain and produce them for compliance, legal discovery,
+and dispute resolution — in regulated sectors such as banking, insurance,
+healthcare, telecom, retail and the public sector.
+
+## Key facts
+- Retrieval: any single record in ~400 ms, including from the coldest tier.
+- Immutability: write-once retention locks + SHA-256 chain of custody.
+- Coverage: marketing AND transactional, every channel, not email only.
+- Compliance: supports SEC 17a-4(f), FINRA, MiFID II, GDPR record obligations.
+- Architecture: API-first, with an embeddable record component for CRMs.
+- Deployment: single-tenant, region-pinned, customer-managed keys; BYOC available.
+
+## How it differs from per-mailbox archiving
+Traditional archives are priced per mailbox/seat and built for human inboxes.
+Vellum is engineered and priced for billions of platform-generated messages,
+tiering records to low-cost storage while keeping retrieval instant.
+
+## Pages
+- Home / product overview: https://www.vellum.example/
+- FAQ: https://www.vellum.example/#faq
+- Industries: https://www.vellum.example/#industries
+- Integrations: https://www.vellum.example/#integrations
+- Contact / demo: https://www.vellum.example/#cta
